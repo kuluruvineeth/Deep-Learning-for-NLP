@@ -28,3 +28,10 @@
    * Encoding with one_hot
    * Hash Encoding with hashing_trick
    * Tokenizer API
+
+## 5. [Preparing Moview Review Data for Sentiment Analysis](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/Movie%20Review%20Data%20for%20Sentiment%20Analysis%20using%20BOW%20model.ipynb)
+   * Moview Review Dataset
+   * Load Text Data
+   * Clean Text Data
+   * Develop Vocabulary
+   * Save Prepared Data 
