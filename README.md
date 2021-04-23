@@ -16,3 +16,9 @@
       * Filter out punctuation in words
       * Filter out stop words
       * stemming words 
+
+## 3. [How to prepare text with scikit-learn](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/How%20to%20Prepare%20Text%20Data%20with%20Scikit-Learn.ipynb)
+   * Bag of Words
+   * Word Counts with CountVectorizer
+   * Word Frequencies with TfidfVectorizer
+   * Hashing with HashingVectorizer
