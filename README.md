@@ -22,3 +22,9 @@
    * Word Counts with CountVectorizer
    * Word Frequencies with TfidfVectorizer
    * Hashing with HashingVectorizer
+
+## 4. [How to prepare text with keras](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/How%20to%20prepare%20text%20data%20with%20keras.ipynb)
+   * Split Words with text_to_word_sequence
+   * Encoding with one_hot
+   * Hash Encoding with hashing_trick
+   * Tokenizer API
