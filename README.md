@@ -35,3 +35,13 @@
    * Clean Text Data
    * Develop Vocabulary
    * Save Prepared Data 
+
+## 6. [Predicting Movie Review Dataset](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/Developing%20a%20Neural%20Bag-of-Words%20Model%20for%20Sentiment%20Analysis.ipynb)
+   * Movie Review Dataset
+   * Data Preparation
+   * Bag-of-Words Representation
+   * Sentiment Analysis Models
+   * Comparing Word Scoring Methods
+   * Predicting Sentiment for New Reviews
+
+
