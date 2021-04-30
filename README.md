@@ -49,4 +49,10 @@
    * Example of Learning an Embedding
    * Example of Using Pre-Trained Glove Embedding 
 
+## 8. [Embedding + CNN Model for Sentiment Analysis](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/Embedding%20%2B%20CNN%20Model%20for%20Sentiment%20Analysis.ipynb)
+   * Movie Review Dataset
+   * Data Preparation
+   * Train CNN with Embedding Layer
+   * Evaluate Model
+
 
