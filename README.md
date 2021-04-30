@@ -44,4 +44,9 @@
    * Comparing Word Scoring Methods
    * Predicting Sentiment for New Reviews
 
+## 7. [Learning and Loading Word Embeddings in Keras](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/Learning%20and%20Loading%20Word%20Embeddings%20in%20Keras.ipynb)
+   * Keras Embedding Layer
+   * Example of Learning an Embedding
+   * Example of Using Pre-Trained Glove Embedding 
+
 
