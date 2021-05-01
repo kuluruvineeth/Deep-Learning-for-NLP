@@ -58,6 +58,11 @@
 ## 9. [Character-Based Neural Language Model](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/Character-Based%20Neural%20Language%20Model.ipynb)
    * Data Preparation
    * Train Language Model
-   * Generate Text 
+   * Generate Text
+
+## 10. [Word-Bsed Neural Language Model](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/Word-Based%20Neural%20Language%20Model.ipynb)
+   * Model 1 : One-Word-In,One-Word-Out Sequences
+   * Model 2 : Line-by-Line Sequence
+   * Model 3 : Two-Words-In,One-Word-Out Sequence 
 
 
