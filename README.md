@@ -55,4 +55,9 @@
    * Train CNN with Embedding Layer
    * Evaluate Model
 
+## 9. [Character-Based Neural Language Model](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/Character-Based%20Neural%20Language%20Model.ipynb)
+   * Data Preparation
+   * Train Language Model
+   * Generate Text 
+
 
