@@ -68,6 +68,13 @@
 ## 11. [Loading and Using Pre-Trained Object Recognition Model](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/Loading%20and%20Using%20a%20Pre-Trained%20Object%20Recognition%20Model.ipynb)
    * ImageNet
    * Loading the VGG model in keras
-   * Developing a Simple Photo Classifier 
+   * Developing a Simple Photo Classifier
+
+## 12. [Evaluating Generated Text With the BLEU Score](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/Evaluating%20Generated%20Text%20with%20the%20BLEU%20Score.ipynb)
+   * Sentence BLEU Score
+   * Corpus BLEU Score
+   * Individual n-gram Scores
+   * Cumulative n-gram Scores
+   * Worked Example
 
 
