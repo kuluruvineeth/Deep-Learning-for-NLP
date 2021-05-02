@@ -63,6 +63,11 @@
 ## 10. [Word-Bsed Neural Language Model](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/Word-Based%20Neural%20Language%20Model.ipynb)
    * Model 1 : One-Word-In,One-Word-Out Sequences
    * Model 2 : Line-by-Line Sequence
-   * Model 3 : Two-Words-In,One-Word-Out Sequence 
+   * Model 3 : Two-Words-In,One-Word-Out Sequence
+
+## 11. [Loading and Using Pre-Trained Object Recognition Model](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/Loading%20and%20Using%20a%20Pre-Trained%20Object%20Recognition%20Model.ipynb)
+   * ImageNet
+   * Loading the VGG model in keras
+   * Developing a Simple Photo Classifier 
 
 
