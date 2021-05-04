@@ -77,4 +77,13 @@
    * Cumulative n-gram Scores
    * Worked Example
 
+## 13. [Preparing a Photo Caption Dataset For Modeling](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/Preparing%20a%20Photo%20Caption%20Dataset%20for%20Modeling.ipynb)
+   * Loading Photographs
+   * Pre-Calculating Photo Features
+   * Loading Descriptions
+   * Preparing Description Text
+   * Whole Description Sequence Model
+   * Word-By-Word Model
+   * Progressive Loading
+
 
