@@ -86,4 +86,10 @@
    * Word-By-Word Model
    * Progressive Loading
 
+## 14. [Neural Machine Translation Model](https://github.com/kuluruvineeth/Deep-Learning-for-NLP/blob/main/Neural%20Machine%20Translation%20Model.ipynb)
+   * German to English Translation
+   * Preparing the Text Data
+   * Training Neural Translation Model
+   * Evaluating Neural Translation Model  
+
 
